@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_whyred.mk
+    $(LOCAL_DIR)/palladium_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_whyred-user \
-    cherish_whyred-userdebug \
-    cherish_whyred-eng
+    palladium_whyred-user \
+    palladium_whyred-userdebug \
+    palladium_whyred-eng
