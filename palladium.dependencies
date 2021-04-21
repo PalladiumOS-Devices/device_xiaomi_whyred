@@ -23,6 +23,6 @@
     "remote":      "github",
     "repository":  "SALMANKHANPM/kernel_xiaomi_whyred",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "11"
+    "branch":      "extended"
   }
 ]
