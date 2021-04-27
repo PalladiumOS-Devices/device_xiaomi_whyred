@@ -21,9 +21,9 @@
   },
   {
     "remote":      "github",
-    "repository":  "SALMANKHANPM/kernel_xiaomi_whyred",
+    "repository":  "akira-vishal/nexus_kernel_whyred",
     "target_path": "kernel/xiaomi/sdm660",
-    "branch":      "extended"
+    "branch":      "oc"
   },
   {
     "remote":      "github",
