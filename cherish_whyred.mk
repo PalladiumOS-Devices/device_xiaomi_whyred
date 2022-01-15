@@ -36,7 +36,7 @@ WITH_GAPPS=true
 
 # Maintainer Prop
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.cherish.maintainer="P.M.SALMAN KHAN"
+    ro.cherish.maintainer=P.M.SALMAN_KHAN
 
 # Device Specfic
 PRODUCT_BRAND := Xiaomi
