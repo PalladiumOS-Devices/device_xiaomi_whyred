@@ -25,6 +25,9 @@ $(call inherit-product, vendor/cherish/config/common_full_phone.mk)
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
+# Inherit from custom vendor.
+$(call inherit-product, vendor/MiuiCamera/config.mk)
+
 # CherishOS Properties
 TARGET_INCLUDE_WIFI_EXT := false
 TARGET_GAPPS_ARCH := arm64
