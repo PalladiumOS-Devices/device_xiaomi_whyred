@@ -53,6 +53,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR_PRODUCT_NAME := whyred
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="raven-user 12 SQ1D.220105.007 8030436 release-keys"
+    PRIVATE_BUILD_DESC="raven-user 12 S2B3.220205.007.A1 8133516 release-keys"
 
-BUILD_FINGERPRINT := google/raven/raven:12/SQ1D.220105.007/8030436:user/release-keys
+BUILD_FINGERPRINT := google/raven/raven:12/S2B3.220205.007.A1/8133516:user/release-keys
