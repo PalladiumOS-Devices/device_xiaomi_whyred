@@ -25,8 +25,6 @@ $(call inherit-product, vendor/palladium/config/common_full_phone.mk)
 # Inherit from whyred device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
-# Inherit from custom vendor.
-$(call inherit-product, vendor/MiuiCamera/config.mk)
 
 # PalladiumOS Properties
 TARGET_GAPPS_ARCH := arm64
