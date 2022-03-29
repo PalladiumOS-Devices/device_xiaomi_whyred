@@ -1,13 +1,11 @@
 [
    {
-      "remote":"github",
-      "repository":"SALMANKHANPM/android_device_xiaomi_sdm660-common",
-      "target_path":"device/xiaomi/sd660-common",
+      "repository":"android_device_xiaomi_sdm660-common",
+      "target_path":"device/xiaomi/sdm660-common",
       "branch":"12.1"
    },
    {
-      "remote":"github",
-      "repository":"SALMANKHANPM/vendor_xiaomi",
+      "repository":"vendor_xiaomi_whyred",
       "target_path":"vendor/xiaomi",
       "branch":"12.1"
    },
@@ -18,15 +16,7 @@
       "branch":"R25-qti_haptics"
    },
    {
-      "remote":"github",
-      "repository":"SakilMondal/vendor_MiuiCamera",
-      "target_path":"vendor/MiuiCamera",
-      "branch":"12.x"
-   },
-   {
-      "remote":"github",
-      "repository":"SALMANKHANPM/vendor_dirac",
+      "repository":"vendor_dirac",
       "target_path":"vendor/dirac",
-      "branch":"12.1"
    }
 ]
